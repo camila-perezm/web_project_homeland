@@ -1,0 +1,16 @@
+
+body {
+    background-color: #2A2C2F;
+}
+
+.page {
+    max-width: 100%;
+    margin: auto;
+    font-family: "Inter-Regular", sans-serif;
+    display: flex;
+    flex-direction: column;
+    color: #FFFFFF;
+    background-color: #2A2C2F;
+    font-size: 16px;
+    line-height: 20px;
+}
