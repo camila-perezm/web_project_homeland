@@ -1,11 +1,9 @@
-.grid {
+.gallery {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: repeat(2, 1fr);
-  grid-area: 10px;
 }
 
-.grid__item1 {
+.g__item1 {
 }
 
 .grid__item2 {
