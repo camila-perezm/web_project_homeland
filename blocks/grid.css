@@ -1,0 +1,30 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  grid-area: 10px;
+}
+
+.grid__item1 {
+}
+
+.grid__item2 {
+}
+
+.grid_item3 {
+}
+
+.photo__grid_item4 {
+}
+
+.photo__grid_item5 {
+}
+
+.photo__grid_item6 {
+}
+
+.photo__grid_item7 {
+}
+
+.photo__grid_item8 {
+}
