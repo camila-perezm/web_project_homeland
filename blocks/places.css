@@ -49,8 +49,8 @@
 
 .places__url-artist-name {
   color: #ffffff;
-  font: "Inter";
-  size: 18px;
+  font-family: "Inter";
+  font-size: 18px;
   margin: 0;
 }
 
@@ -86,7 +86,7 @@
 
   .places__paragraph {
     max-width: 100%;
-    size: 16px;
+    font-size: 16px;
     line-height: 1.2;
   }
 }
@@ -110,7 +110,7 @@
 
   .places__paragraph {
     max-width: 100%;
-    size: 18px;
+    font-size: 18px;
     line-height: 1.5;
   }
 }
