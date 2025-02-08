@@ -1,12 +1,13 @@
 .footer {
-    display: flex;
-    justify-content: center;
-    padding-top: 10%;
-    padding-bottom: 5%;
+  display: flex;
+  justify-content: center;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  height: 100%;
 }
 .footer__copyright {
-    font-family: "Inter-Regular";
-    font-size: 14px;
-    font-weight: 400;
-    line-height: 1.5;
+  font-family: "Inter-Regular";
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 1.5;
 }
